@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Aplikasi Biodata</string>
+    <string name="Dnim">A11.2017.10225</string>
+    <string name="Dnama">Adek Burhanudin</string>
+    <string name="Ddesc">: My Name Adek Burhanudin </string>
+    <string name="deskripsi">Deskripsi </string>
+    <string name="hobby">Hobby </string>
+    <string name="alamat">Alamat </string>
+    <string name="Dhobby">: Listening Music, Ngoding, Ngegame</string>
+    <string name="Dalamat">: Demak Kota Wali</string>
+    <string name="telepon">Telepon </string>
+    <string name="Dtelepon">: +6282288888888</string>
+    <string name="email">Email </string>
+    <string name="Demail">: adekburhanudin@gmail.com</string>
+    <string name="image">Image</string>
+</resources>
